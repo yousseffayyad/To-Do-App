@@ -80,9 +80,9 @@ ToDoApp/
    ```bash
    git clone https://github.com/yousseffayyad/To-Do-App.git
  2. Navigate into the project directory
-    - `cd To-Do-App`
+     - `cd To-Do-App`
  3. Open the Xcode project
-   - `open To-Do-App.xcodeproj  `
+     - `open To-Do-App.xcodeproj  `
      
 ---
 
